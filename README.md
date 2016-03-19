@@ -20,7 +20,7 @@ Nasze projekty:
 1. [Ewa Barczak](https://github.com/ewagrzywka).
 1. [Aleksandra Bemke](https://github.com/abemke).
 1. [Kasia Idziak](https://github.com/idzionek).
-1. [D Lachowicz](https://github.com/Alphacentauri01).
+1. [Dariusz Lachowicz](https://github.com/Alphacentauri01).
 1. [Michał Lewandowski](https://github.com/lewand16).
 1. SL Majewska
 1. [Jacek Mankiewicz](http://github.com/JacekMMC/), [Repozytorium](https://github.com/JacekMMC/zadanie-1).
@@ -35,7 +35,7 @@ Nasze projekty:
 1. [Jakub Wałek](https://github.com/qbaw), [Projekty](https://github.com/qbaw/projekty).
 1. [Anna Wróblewska](https://github.com/aniawr).
 1. [Rafał Wróblewski](https://github.com/ElektroITmatyk), [Repozytorium](https://github.com/ElektroITmatyk/TI-2016).
-1. A Zieliński
+1. [Andrzej Zieliński](https://github.com/azet2), [Notatki_1](https://github.com/azet2/Notatki_1)
 
 
 ### Linki
